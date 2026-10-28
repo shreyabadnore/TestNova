@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-27T23:59:22 IST" name="Opencart App Test Regression Suite" finished-at="2026-10-27T23:59:41 IST" duration-ms="18245">
+    <groups>
+    </groups>
+    <test started-at="2026-10-27T23:59:22 IST" name="Login Page Test" finished-at="2026-10-27T23:59:41 IST" duration-ms="18245">
+      <class name="tests.LoginPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:22 IST" name="setup" finished-at="2026-10-27T23:59:32 IST" duration-ms="9330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:32 IST" name="footerTest" data-provider="getFooterData" finished-at="2026-10-27T23:59:32 IST" duration-ms="463" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:33 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:33 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=footerTest status=SUCCESS method=LoginPageTest.footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:33 IST" name="footerTest" data-provider="getFooterData" finished-at="2026-10-27T23:59:33 IST" duration-ms="292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:33 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:33 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=footerTest status=SUCCESS method=LoginPageTest.footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:33 IST" name="footerTest" data-provider="getFooterData" finished-at="2026-10-27T23:59:33 IST" duration-ms="351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Specials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:33 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:33 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=footerTest status=SUCCESS method=LoginPageTest.footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:33 IST" name="footerTest" data-provider="getFooterData" finished-at="2026-10-27T23:59:33 IST" duration-ms="276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Order History]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:34 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:34 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=footerTest status=SUCCESS method=LoginPageTest.footerTest(java.lang.String)[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="forgotPassLinkExistTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:34 IST" name="forgotPassLinkExistTest" finished-at="2026-10-27T23:59:35 IST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassLinkExistTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:35 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:35 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgotPassLinkExistTest status=SUCCESS method=LoginPageTest.forgotPassLinkExistTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:35 IST" name="loginPageTitleTest" finished-at="2026-10-27T23:59:35 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:35 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageTitleTest status=SUCCESS method=LoginPageTest.loginPageTitleTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="loginPageURLTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:35 IST" name="loginPageURLTest" finished-at="2026-10-27T23:59:35 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageURLTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:35 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageURLTest status=SUCCESS method=LoginPageTest.loginPageURLTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="logoTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:35 IST" name="logoTest" finished-at="2026-10-27T23:59:36 IST" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:36 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logoTest status=SUCCESS method=LoginPageTest.logoTest()[pri:0, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method signature="loginTest()[pri:2147483647, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:36 IST" name="loginTest" finished-at="2026-10-27T23:59:40 IST" duration-ms="4566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="attachScreenShot(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:40 IST" name="attachScreenShot" finished-at="2026-10-27T23:59:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=LoginPageTest.loginTest()[pri:2147483647, instance:tests.LoginPageTest@65cf4d6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTest@65cf4d6d]" started-at="2026-10-27T23:59:40 IST" name="tearDown" finished-at="2026-10-27T23:59:41 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginPageTest -->
+    </test> <!-- Login Page Test -->
+  </suite> <!-- Opencart App Test Regression Suite -->
+</testng-results>
